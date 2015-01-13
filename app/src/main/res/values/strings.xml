@@ -13,5 +13,6 @@
     <string name="hint_password">Please enter a password</string>
     <string name="confirm_label">Confirm:</string>
     <string name="hint_confirm">Please confirm your password</string>
+    <string name="new_string">Here's a new string</string>
 
 </resources>
